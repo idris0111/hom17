@@ -198,6 +198,9 @@
   .mb-\[20px\] {
     margin-bottom: 20px;
   }
+  .mb-\[24px\] {
+    margin-bottom: 24px;
+  }
   .mb-\[30px\] {
     margin-bottom: 30px;
   }
@@ -209,6 +212,9 @@
   }
   .mb-\[100px\] {
     margin-bottom: 100px;
+  }
+  .mb-\[px\] {
+    margin-bottom: px;
   }
   .block {
     display: block;
@@ -290,6 +296,9 @@
   }
   .max-w-\[1200px\] {
     max-width: 1200px;
+  }
+  .max-w-\[1250px\] {
+    max-width: 1250px;
   }
   .border-collapse {
     border-collapse: collapse;
